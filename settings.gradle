@@ -1,0 +1,2 @@
+include ':app',':yasea'
+rootProject.name = "Player"
